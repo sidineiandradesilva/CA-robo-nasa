@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>br.com.contaAzul</groupId>
 	<artifactId>robo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>CA-2023</version>
 	<name>robo</name>
 	<description>Robo da Nasa</description>
 	<properties>
@@ -22,7 +22,10 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
