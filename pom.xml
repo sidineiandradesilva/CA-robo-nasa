@@ -13,7 +13,7 @@
 	<artifactId>robo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>robo</name>
-	<description>Robo da Naza</description>
+	<description>Robo da Nasa</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
